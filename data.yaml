@@ -1,0 +1,5 @@
+train: C:/Users/HP/MOONNAV2/dataset/images/train
+val: C:/Users/HP/MOONNAV2/dataset/images/val
+
+nc: 3
+names: ['crater', 'boulder', 'slope']
